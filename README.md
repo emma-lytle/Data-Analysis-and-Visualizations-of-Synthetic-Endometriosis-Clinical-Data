@@ -1,0 +1,2 @@
+# Data-Analysis-and-Visualizations-of-Synthetic-Endometriosis-Clinical-Data
+This notebook explores 10,000 patients in a synthetic endometriosis dataset by extracting the most frequent patient clusters after normalizating variables, and analyzing different visualizations. Features compared include age, BMI, hormone abnormality and menstrual irregularity status, infertility, chronic pain, and endometriosis diagnosis.
